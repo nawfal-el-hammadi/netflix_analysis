@@ -1,8 +1,11 @@
 # Netflix Analytics Dashboard (Project 1)
 
 **Author:** Nawfal  El hammadi 
+
 **Project type:** Data analysis / analytics .
-**Primary tools:** Python (pandas, numpy), Jupyter Notebook.  
+
+**Primary tools:** Python (pandas, numpy), Jupyter Notebook. 
+
 **Goal:** Extract meaningful insights from Netflix’s catalog through a clean analytical workflow inside a single, self-contained notebook.
 
 ---
